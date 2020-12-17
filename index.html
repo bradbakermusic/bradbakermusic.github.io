@@ -8,12 +8,20 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    
+    <!-- Jquery --> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 
     <!-- Get Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">
 
     <link rel="icon" href="music-note.svg">
-</head>
+    <script type="text/javascript">
+        $(function(){
+            $("#title-and-nav").load("title-and-nav.html"); 
+        });
+    </script>
 
     <title>brad baker music</title>
     <style>
@@ -28,32 +36,7 @@
 </head>
 <body> 
     <main class="py-5 text-center container">
-        <div class="container-fluid">
-            <div class="row">
-                <h1 class="bd-title" id="content"><p>brad baker music</p></h1>
-            </div>
-            <div id="nav-options" class="row col-lg-6 col-md-8 mx-auto">
-                <div class="col">
-                    <p><a href="/">home</a></p>
-                </div>
-                <div class="col">
-                    <p><a href="/media">media</a></p>
-                </div>
-                <div class="col">
-                    <p><a href="/transcriptions">transcriptions</a></p>
-                </div>
-                <div class="col">
-                    <p><a href="/analysis">analysis</a></p>
-                </div>
-                <div class="col">
-                    <p><a href="/calendar">calendar</a></p>
-                </div>
-                <div class="col">
-                    <p><a href="/contact">contact</a></p>
-                </div>
-            </div>
-       </div>
-       <br>
+        <div class="container-fluid" id="title-and-nav"></div>
 
             <b>Transcriptions</b><br>
             <ul>
