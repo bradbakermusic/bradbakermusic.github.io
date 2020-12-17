@@ -1,0 +1,7 @@
+p {
+    font-family: "Raleway", sans-serif;
+  }   
+#nav-options>div>p>a{
+    color: #212529;
+    text-decoration: none;
+}
