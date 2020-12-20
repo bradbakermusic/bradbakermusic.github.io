@@ -29,9 +29,9 @@
 
     <!-- On Click Action -->
     <script type="text/javascript">
-        $(function(){
-            $("#article_body").load("/analysis/grant_green_words/index.html"); 
-        });
+        function replaceWithArticle(elmnt,article) {
+            $("#article_body").load("/analysis/" + article + "/index.html"); 
+        };
     </script>
 
 
@@ -40,7 +40,7 @@
     <main class="py-5 text-center container">
         <div class="container-fluid pb-3" id="title-and-nav"></div>
         <div id="article_body">
-            <a id="grant_green_words" onclick="replace_with_article()"><p>Grant Green Words</p></a>
+            <a onclick="replaceWithArticle(this,'grant_green_words')"><p>Grant Green Words</p></a>
         </div>
     </main>
 </body>
