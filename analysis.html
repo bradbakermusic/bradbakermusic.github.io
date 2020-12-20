@@ -23,14 +23,25 @@
         });
     </script>
 
+
     <title>brad baker music - analysis</title>
     <link rel="stylesheet" href="styles.css">
+
+    <!-- On Click Action -->
+    <script type="text/javascript">
+        $(function(){
+            $("#article_body").load("/analysis/grant_green_words/index.html"); 
+        });
+    </script>
+
 
 </head>
 <body> 
     <main class="py-5 text-center container">
         <div class="container-fluid pb-3" id="title-and-nav"></div>
-        <a href="/analysis/grant_green_words/"><p>Grant Green Words</p></a>
+        <div id="article_body">
+            <a id="grant_green_words" onclick="replace_with_article()"><p>Grant Green Words</p></a>
+        </div>
     </main>
 </body>
 
