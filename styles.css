@@ -1,6 +1,7 @@
-p {
+p, h1, h2, h3, h4 {
     font-family: "Raleway", sans-serif;
   }   
+
 #nav-options>div>p>a{
     color: #212529;
     text-decoration: none;
@@ -12,3 +13,4 @@ a {
 #text-content{
 	text-align: left;
 }
+
