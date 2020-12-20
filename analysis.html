@@ -30,17 +30,37 @@
     <!-- On Click Action -->
     <script type="text/javascript">
         function replaceWithArticle(elmnt,article) {
-            $("#article_body").load("/analysis/" + article + "/index.html"); 
+            $("#article_body").load("/analysis/" + article + "/index.html .markdown-body"); 
         };
     </script>
+
+    <style>
+    .markdown-body .headerlink {
+        font: normal 400 16px fontawesome-mini;
+        vertical-align: middle;
+        margin-left: -16px;
+        float: left;
+        display: inline-block;
+        text-decoration: none;
+        opacity: 0;
+        color: #333;
+    }
+    #article_body > a {
+    cursor: pointer;
+    } 
+
+    </style>
 
 
 </head>
 <body> 
     <main class="py-5 text-center container">
         <div class="container-fluid pb-3" id="title-and-nav"></div>
-        <div id="article_body">
-            <a onclick="replaceWithArticle(this,'grant_green_words')"><p>Grant Green Words</p></a>
+        
+        <div id="text-content" class="col-md-6 offset-md-3">
+            <div id="article_body">
+                <a onclick="replaceWithArticle(this,'grant_green_words')"><p>Grant Green Words</p></a>
+            </div>
         </div>
     </main>
 </body>
