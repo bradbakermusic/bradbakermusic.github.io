@@ -1,6 +1,6 @@
 # Grant Green Words Analysis
 
-Preamble about Green's playing
+Grant Green is one of my favorite jazz musicians and I want to understand more about how he plays. In this analysis I'm pulling out some of the language he uses most frequently to understand the some of the building blocks of his playing. In that sense, these are some of the "words" he uses most frequently and that feel unique to him. By utilizing these one can better get the Grant Green thing going on.
 
 ## Mario
 
