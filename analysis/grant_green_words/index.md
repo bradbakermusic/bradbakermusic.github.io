@@ -14,6 +14,6 @@ There are countless examples in Green's playing of this technique and listening 
 
 A variant of this technique is where Green will follow Mario up with a rake down an octave from the note he Mario'd into. He will usually go down the minor triad to the same note like this example from his solo on Green Dolphin Street from Gooden's Corner at 1:18
 
-![Image of Mario Variant](mario_variant.pdf)
+![Image of Mario Variant](/analysis/grant_green_words/mario_variant.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vUCYrcWbaH0?start=74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
