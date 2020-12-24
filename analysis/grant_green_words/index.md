@@ -21,7 +21,11 @@ A variant of this technique is where Green will follow Mario up with a rake down
 
 ## Diminished Arpeggios
 
-One of Grant Green's favorite techniques for creating compelling lines and leading to strong resolutions is to outline diminished chords over dominiants that resolve. He'll use this over any V-I or V-i type progression. Here is a bare bones example of the sound. 
+One of Grant Green's favorite techniques for creating compelling lines and leading to strong resolutions is to outline diminished chords over dominiants that resolve. He'll use this over any V-I or V-i type progression. There is one lick family in particular that he goes back to time and again. The bare bones version of the lick is a triplet pattern going starting on the major third of the dominant, going up to the 5th, and flat 7th, then descending from the flat 9, root, flat seventh, and then resolving to the third of the tonic. Here is an example from his solo on Alone Together from the Green Street Recording.
+
+![Image of Bare Bones Grant Green Lick](/analysis/grant_green_words/gg_lick_bare_bones.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkJ3yaXBlBU?start=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Repeated Patterns
 
