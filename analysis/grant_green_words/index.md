@@ -29,7 +29,7 @@ One of Grant Green's favorite techniques for creating compelling lines and leadi
 
 Variants of this lick can be found all over in Green's playing. Here is another example from his solo on Just Friends.
 
-![Image of Mario Variant](/analysis/grant_green_words/gg_lick_variant.jpg)
+![Image of diminished lick variant](/analysis/grant_green_words/gg_lick_variant.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x1cEbHpjjNs?start=107" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,3 +37,14 @@ Variants of this lick can be found all over in Green's playing. Here is another 
 ## Repeated Patterns
 
 Green will use repetition to build excitement and tension. He'll repeat an idea over and over so the listener has something to latch on to and the tension comes from the uncertainy of when it will end. One of my favorite examples is when he goes up and down the blues scale for 6 bars in his solo on Alone Together. 
+
+![Image of Pattern](/analysis/grant_green_words/gg_pattern.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkJ3yaXBlBU?start=198" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Another fun example is when he uses a 16th note triplet pattern on his solo on Stella by Starlight here:
+
+![Image of Pattern Number 2](/analysis/grant_green_words/gg_pattern2.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Xo7K39Gk_k?start=171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
